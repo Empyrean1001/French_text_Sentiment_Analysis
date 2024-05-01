@@ -1,1 +1,1 @@
-This Folder contains code included 
+This Folder contains code included for webscraping the Allocine.fr french movie review website. The following codes in this folder will create 3 parquet files, namely train, test and validation files containing movie reviews of all the movies having viewer reviews on their webpage.
